@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "userId": "parent1",
+        "amount": 120,
+        "category": "Mat",
+        "date": "2025-01-10",
+        "note": "Lunch"
+    },
+    {
+        "id": "2",
+        "userId": "parent1",
+        "amount": 300,
+        "category": "Transport",
+        "date": "2025-01-11",
+        "note": "Bus ticket"
+    },
+    {
+        "id": "3",
+        "userId": "parent2",
+        "amount": 450,
+        "category": "Underholdning",
+        "date": "2025-01-12",
+        "note": "Movie night"
+    },
+    {
+        "id": "4",
+        "userId": "parent2",
+        "amount": 200,
+        "category": "Mat",
+        "date": "2025-01-13",
+        "note": "Groceries"
+    }
+]
